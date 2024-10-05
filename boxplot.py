@@ -3,7 +3,7 @@ import numpy as np
 
 # Example data (you can replace it with your data)
 data = [0, 10, 10, 40, 48, 49, 50, 60, 60, 60, 60, 60, 80]
-group2 = [9, 10, 11, 9, 12, 8, 10, 10, 8, 9, 11, 11, 9]
+group2 = [8, 10, 11, 9, 12, 8, 10, 10, 8, 9, 11, 11, 9]
 
 # Calculating quartiles and mean
 Q1 = np.percentile(data, 25)
