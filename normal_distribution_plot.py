@@ -3,7 +3,7 @@ import numpy as np
 from scipy.stats import norm
 
 # Example data (replace with your own data)
-data = [9, 10, 11, 9, 12, 8, 10, 10, 8, 9, 11, 11, 9]
+data = [9, 10, 11, 10, 12, 8, 10, 10, 8, 9, 11, 11, 9]
 
 # Calculate mean and standard deviation
 mean = np.mean(data)

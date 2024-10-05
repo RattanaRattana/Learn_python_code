@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from scipy import stats
 
 x = np.array([1,5,6,8,11])
-y = np.array([1,5,6,8,11])
+y = np.array([1,5,6,8,12])
 
 plt.scatter(x,y)
 
